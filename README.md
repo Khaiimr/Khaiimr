@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Khaiimr
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning to be a Full Stack Developer
-- 📫 You can reach me via instagram : - khaiimr_
+- 📫 You can reach me via LinkedIn: www.linkedin.com/in/khairulimrannazari
 
 <!---
 Khaiimr/Khaiimr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
